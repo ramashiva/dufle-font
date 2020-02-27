@@ -1,4 +1,4 @@
-# How to Install the Required Font for Module 1
+Title: How to Install the Required Font for Module 1
 
 - Download the font by [clicking here](files/Ipak-2.ttf).
 - Once the font is downloaded, open the downloaded file by clicking on the button in the bottom-left corner of the screen:
